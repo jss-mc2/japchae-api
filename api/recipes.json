@@ -52,5 +52,13 @@
       ]
     }
   ],
-  "meta": {}
+  "meta": {
+    "current_page": 1,
+    "from": 1,
+    "last_page": 1,
+    "path": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/api/recipes.json",
+    "per_page": 15,
+    "to": 2,
+    "total": 2
+  }
 }
