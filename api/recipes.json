@@ -36,7 +36,7 @@
               "id": "",
               "name": "",
               "image": "",
-              "is_essential": true
+              "is_essential": false
             }
           ],
           "used_ingredients": [
