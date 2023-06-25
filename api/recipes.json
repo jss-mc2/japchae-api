@@ -1,4 +1,56 @@
 {
-  "data": [],
+  "data": [
+    {
+      "id": "",
+      "name": "",
+      "description": "",
+      "duration": "",
+      "image": "",
+      "utensils": [
+        {
+          "id": "",
+          "name": "",
+          "image": "",
+          "is_essential": true
+        }
+      ],
+      "ingredients": [
+        {
+          "id": "",
+          "name": "",
+          "image": "",
+          "amount": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "id": "",
+          "order": 1,
+          "title": "",
+          "description": "",
+          "media": "",
+          "media_type": "",
+          "used_utensils": [
+            {
+              "id": "",
+              "name": "",
+              "image": "",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "",
+              "name": "",
+              "image": "",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "meta": {}
 }
