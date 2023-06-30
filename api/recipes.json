@@ -50,7 +50,7 @@
           "name": "Sirloin Beef",
           "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
           "amount": "1",
-          "unit": "pcs"
+          "unit": "pc"
         },
         {
           "id": "e3b2d687-af89-4d50-ad0d-b42427e92289",
@@ -78,13 +78,13 @@
           "name": "Butter",
           "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/butter.png",
           "amount": "1",
-          "unit": "pcs"
+          "unit": "pc"
         },
         {
           "id": "11d53179-b827-4f04-8069-a52df72cc126",
           "name": "Unpeeled Garlic Cloves",
           "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/unpeeled_garlic.png",
-          "amount": "1",
+          "amount": "2",
           "unit": "pcs"
         },
         {
@@ -123,7 +123,7 @@
               "name": "Meat",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
               "amount": "1",
-              "unit": "pcs"
+              "unit": "pc"
             }
           ]
         },
