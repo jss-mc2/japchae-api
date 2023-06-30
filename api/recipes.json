@@ -1,6 +1,444 @@
 {
   "data": [
     {
+      "id": "fa98677a-b15d-4e18-8328-1374f369f09c",
+      "name": "Sirloin Steak",
+      "description": "Experience the ultimate indulgence with a juicy, tender sirloin steak. Its robust flavor and melt-in-your-mouth texture will leave you craving more. Fire up the grill or heat up the skillet, and embark on a culinary journey that celebrates the art of cooking and the sheer pleasure of savoring this exquisite cut of beef.",
+      "duration": "10 - 20 Minutes",
+      "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/recipes/sirloin_steak/beef_sirloin.jpeg",
+      "utensils": [
+        {
+          "id": "0aafbf14-0583-4155-8367-45b1addc6db3",
+          "name": "Pan",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/pan.png",
+          "is_essential": true
+        },
+        {
+          "id": "250556e8-ca07-43ba-99bf-8e87532f8699",
+          "name": "Knife",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
+          "is_essential": true
+        },
+        {
+          "id": "3d532a05-b026-41f8-b456-7f502ea8582e",
+          "name": "Chopping Board",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
+          "is_essential": false
+        },
+        {
+          "id": "8f1d5359-50ce-47a1-a86a-df193d9443ff",
+          "name": "Tongs",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/tongs.png",
+          "is_essential": true
+        },
+        {
+          "id": "3282c9e9-1848-45f7-a585-053b5da8e3f4",
+          "name": "Spoon",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/spoon.png",
+          "is_essential": false
+        },
+        {
+          "id": "fb507ed7-4534-4479-886a-8b4f074e6438",
+          "name": "Kitchen Towel",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/kitchen_towel.png",
+          "is_essential": false
+        }
+      ],
+      "ingredients": [
+        {
+          "id": "e6892893-07f6-424c-baa6-480f269554bc",
+          "name": "Sirloin Beef",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "id": "e3b2d687-af89-4d50-ad0d-b42427e92289",
+          "name": "Fresh Rosemary",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/rosemary.png",
+          "amount": "1",
+          "unit": "sprig"
+        },
+        {
+          "id": "670eda2a-fa85-4f05-9c61-00b84e7656cb",
+          "name": "Fresh Thyme",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/thyme.png",
+          "amount": "1",
+          "unit": "sprig"
+        },
+        {
+          "id": "579a969f-ca45-456b-a59d-1257b2b229fa",
+          "name": "Salt",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/salt.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "0cdaf7d7-0906-4b9d-834b-2406d2d5cfac",
+          "name": "Butter",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/butter.png",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "id": "11d53179-b827-4f04-8069-a52df72cc126",
+          "name": "Unpeeled Garlic Cloves",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/unpeeled_garlic.png",
+          "amount": "1",
+          "unit": "pcs"
+        },
+        {
+          "id": "ce08a974-8e21-4ef7-9f96-2730a34118b1",
+          "name": "Black Pepper",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/black_pepper.png",
+          "amount": "",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        {
+          "id": "d4a6603a-30a1-4b65-9379-d342ed35b6f1",
+          "order": 1,
+          "title": "Trim the fat of the meat",
+          "description": "Trim the fat of the meat",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/1.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "250556e8-ca07-43ba-99bf-8e87532f8699",
+              "name": "Knife",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
+              "is_essential": true
+            },
+            {
+              "id": "3d532a05-b026-41f8-b456-7f502ea8582e",
+              "name": "Chopping Board",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
+              "is_essential": false
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "e6892893-07f6-424c-baa6-480f269554bc",
+              "name": "Meat",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+              "amount": "1",
+              "unit": "pcs"
+            }
+          ]
+        },
+        {
+          "id": "f796ca02-faf8-4429-8599-4c7f81288a14",
+          "order": 2,
+          "title": "Heat the pan",
+          "description": "Heat the pan",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/2.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "0aafbf14-0583-4155-8367-45b1addc6db3",
+              "name": "Pan",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/pan.png",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": []
+        },
+        {
+          "id": "f796ca02-faf8-4429-8599-4c7f81288a14",
+          "order": 3,
+          "title": "Pat the meat dry",
+          "description": "Pat the meat dry",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/3.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "fb507ed7-4534-4479-886a-8b4f074e6438",
+              "name": "Kitchen Towel",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/kitchen_towel.png",
+              "is_essential": false
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "e6892893-07f6-424c-baa6-480f269554bc",
+              "name": "Meat",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+              "amount": "1",
+              "unit": "pcs"
+            }
+          ]
+        },
+        {
+          "id": "7bae9f78-afc2-444a-982f-5fe6c0aaafbf",
+          "order": 4,
+          "title": "Season meat",
+          "description": "Season the meat with salt and pepper.",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/4.mp4",
+          "media_type": "video",
+          "used_utensils": [],
+          "used_ingredients": [
+            {
+              "id": "e6892893-07f6-424c-baa6-480f269554bc",
+              "name": "Meat",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+              "amount": "1",
+              "unit": "pcs"
+            },
+            {
+              "id": "579a969f-ca45-456b-a59d-1257b2b229fa",
+              "name": "Salt",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/salt.png",
+              "amount": "",
+              "unit": ""
+            },
+            {
+              "id": "ce08a974-8e21-4ef7-9f96-2730a34118b1",
+              "name": "Pepper",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/black_pepper.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "1945965c-ff79-4a69-b1f7-cba8ddc89227",
+          "order": 5,
+          "title": "Render the fat",
+          "description": "Render meat fat in the pan until it produces oil.",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/5.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "0aafbf14-0583-4155-8367-45b1addc6db3",
+              "name": "Pan",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/pan.png",
+              "is_essential": true
+            },
+            {
+              "id": "8f1d5359-50ce-47a1-a86a-df193d9443ff",
+              "name": "Tongs",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/tongs.png",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "e6892893-07f6-424c-baa6-480f269554bc",
+              "name": "meat",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+              "amount": "1",
+              "unit": "pcs"
+            }
+          ]
+        },
+        {
+          "id": "17c0974c-7349-4f94-b56e-077bedaf2ab0",
+          "order": 6,
+          "title": "Sear the meat",
+          "description": "Sear the meat for 2 minutes per side starting with the fat side.",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/6.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "0aafbf14-0583-4155-8367-45b1addc6db3",
+              "name": "Pan",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/pan.png",
+              "is_essential": true
+            },
+            {
+              "id": "8f1d5359-50ce-47a1-a86a-df193d9443ff",
+              "name": "Tongs",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/tongs.png",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "e6892893-07f6-424c-baa6-480f269554bc",
+              "name": "Meat",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+              "amount": "1",
+              "unit": "pcs"
+            }
+          ]
+        },
+        {
+          "id": "fd6c4ce2-ae2f-480a-8c73-23f8106dfcad",
+          "order": 7,
+          "title": "Check the level of doneness",
+          "description": "Check the level of doneness by doing the hand test",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/7.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "2cd46554-e21b-4086-86bb-ecf7aa18f56a",
+              "name": "Hand Test",
+              "image": "",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "e6892893-07f6-424c-baa6-480f269554bc",
+              "name": "Sirloin Beef",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+              "amount": "1",
+              "unit": "pcs"
+            }
+          ]
+        },
+        {
+          "id": "d540f5cd-ac2e-4062-90c2-16adc91fe9ae",
+          "order": 8,
+          "title": "Put butter, garlic, thyme, rosemary",
+          "description": "Lower heat and put in butter, crushed garlic, thyme, and rosemary",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/8.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "0aafbf14-0583-4155-8367-45b1addc6db3",
+              "name": "Pan",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/pan.png",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "e6892893-07f6-424c-baa6-480f269554bc",
+              "name": "Sirloin Beef",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+              "amount": "1",
+              "unit": "pcs"
+            },
+            {
+              "id": "e3b2d687-af89-4d50-ad0d-b42427e92289",
+              "name": "Rosemary",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/rosemary.png",
+              "amount": "1",
+              "unit": "sprig"
+            },
+            {
+              "id": "670eda2a-fa85-4f05-9c61-00b84e7656cb",
+              "name": "Thyme",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/thyme.png",
+              "amount": "1",
+              "unit": "sprig"
+            },
+            {
+              "id": "0cdaf7d7-0906-4b9d-834b-2406d2d5cfac",
+              "name": "Butter",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/butter.png",
+              "amount": "1",
+              "unit": "pcs"
+            },
+            {
+              "id": "11d53179-b827-4f04-8069-a52df72cc126",
+              "name": "Crushed Garlic",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/unpeeled_garlic.png",
+              "amount": "1",
+              "unit": "pcs"
+            }
+          ]
+        },
+        {
+          "id": "e18ddbb2-b169-4072-b658-2e67357a5522",
+          "order": 9,
+          "title": "Baste steak with butter",
+          "description": "Baste steak with butter",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/9.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "3282c9e9-1848-45f7-a585-053b5da8e3f4",
+              "name": "Spoon",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/spoon.png",
+              "is_essential": false
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "e6892893-07f6-424c-baa6-480f269554bc",
+              "name": "Steak",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+              "amount": "1",
+              "unit": "pcs"
+            },
+            {
+              "id": "0cdaf7d7-0906-4b9d-834b-2406d2d5cfac",
+              "name": "Butter",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/butter.png",
+              "amount": "1",
+              "unit": "pcs"
+            }
+          ]
+        },
+        {
+          "id": "8a8994ef-bc29-4811-9198-0c4bcb891a7a",
+          "order": 10,
+          "title": "Resting",
+          "description": "Turn off heat, put in a chopping board, and let it rest for 5 minutes",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/10.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "3d532a05-b026-41f8-b456-7f502ea8582e",
+              "name": "Board",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
+              "is_essential": false
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "e6892893-07f6-424c-baa6-480f269554bc",
+              "name": "Sirloin Beef",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+              "amount": "1",
+              "unit": "pcs"
+            }
+          ]
+        },
+        {
+          "id": "c12d68c4-9d2a-4957-90e7-7e55fde46004",
+          "order": 11,
+          "title": "Slice, add salt, and serve",
+          "description": "Slice the steak, add salt to complement, and serve",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/sirloin_steak/11.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "3d532a05-b026-41f8-b456-7f502ea8582e",
+              "name": "Chopping Board",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
+              "is_essential": false
+            },
+            {
+              "id": "250556e8-ca07-43ba-99bf-8e87532f8699",
+              "name": "Knife",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "e6892893-07f6-424c-baa6-480f269554bc",
+              "name": "Steak",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/sirloin_beef.png",
+              "amount": "1",
+              "unit": "pcs"
+            },
+            {
+              "id": "579a969f-ca45-456b-a59d-1257b2b229fa",
+              "name": "Salt",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/salt.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "",
       "name": "",
       "description": "",
