@@ -439,31 +439,172 @@
       ]
     },
     {
-      "id": "",
-      "name": "",
-      "description": "",
-      "duration": "",
-      "image": "",
+      "id": "11",
+      "name": "Chicken & Vegetables Soup",
+      "description": "Chicken and Vegetable Soup is a comforting and nutritious dish that combines tender chicken, an assortment of vegetables, and flavorful broth into a delightful and wholesome meal. ",
+      "duration": "10 - 20 Minutes",
+      "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/recipes/chicken_soup.jpeg",
       "utensils": [
         {
-          "id": "",
-          "name": "",
-          "image": "",
+          "id": "111",
+          "name": "Laddle",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/laddle.png",
+          "is_essential": true
+        },
+        {
+          "id": "112",
+          "name": "Knive",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
+          "is_essential": true
+        },
+        {
+          "id": "113",
+          "name": "Chopping Board",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
+          "is_essential": true
+        },
+        {
+          "id": "114",
+          "name": "Soup Pot",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/soup_pot.png",
           "is_essential": true
         }
       ],
       "ingredients": [
         {
-          "id": "",
-          "name": "",
-          "image": "",
+          "id": "121",
+          "name": "Shallot",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/shallot.png",
+          "amount": "8",
+          "unit": "Cloves"
+        },
+        {
+          "id": "122",
+          "name": "Garlic",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/garlic.png",
+          "amount": "4",
+          "unit": "Cloves"
+        },
+        {
+          "id": "123",
+          "name": "Carrot",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/carrot.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "124",
+          "name": "Potato",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/potato.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "125",
+          "name": "Ginger",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/ginger.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "126",
+          "name": "Green Beans",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/green_beans.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "127",
+          "name": "Leek",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/leek.png",
+          "amount": "8",
+          "unit": "Cloves"
+        },
+        {
+          "id": "128",
+          "name": "Chicken",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/chicken.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "129",
+          "name": "Anise",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/anise.png",
+          "amount": "4",
+          "unit": "Cloves"
+        },
+        {
+          "id": "130",
+          "name": "Star Anise",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/star_anise.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "131",
+          "name": "Oil",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/oil.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "132",
+          "name": "Salt",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/salt.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "133",
+          "name": "Black Pepper",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/black_pepper.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "134",
+          "name": "Water",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/water.png",
+          "amount": "8",
+          "unit": "Cloves"
+        },
+        {
+          "id": "135",
+          "name": "Chicken Cube",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/chicken_cube.png",
           "amount": "",
           "unit": ""
         }
       ],
       "instructions": [
         {
-          "id": "",
+          "id": "1111",
+          "order": 1,
+          "title": "Cut red onion",
+          "description": "Cut red onion into slices",
+          "media": "",
+          "media_type": "",
+          "used_utensils": [
+            {
+              "id": "222",
+              "name": "Knive",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
+              "is_essential": false
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "",
+              "name": "",
+              "image": "",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "1111",
           "order": 1,
           "title": "",
           "description": "",
