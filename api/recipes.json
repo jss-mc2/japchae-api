@@ -1090,7 +1090,7 @@
           "order": 20,
           "title": "Put green beans",
           "description": "Put the green beans into the soup and wait until it is cooked",
-          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/20.mp4",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/20_.mp4",
           "media_type": "video",
           "used_utensils": [],
           "used_ingredients": [
@@ -1108,7 +1108,7 @@
           "order": 21,
           "title": "Put spring onion and celery",
           "description": "Put spring onion and celery into the soup",
-          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/21.mp4",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/21_.mp4",
           "media_type": "video",
           "used_utensils": [],
           "used_ingredients": [
