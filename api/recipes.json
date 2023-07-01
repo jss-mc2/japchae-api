@@ -443,7 +443,7 @@
       "name": "Chicken & Vegetables Soup",
       "description": "Chicken and Vegetable Soup is a comforting and nutritious dish that combines tender chicken, an assortment of vegetables, and flavorful broth into a delightful and wholesome meal. ",
       "duration": "10 - 20 Minutes",
-      "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/recipes/chicken_soup.jpeg",
+      "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/recipes/chicken_soup/chicken_soup.jpeg",
       "utensils": [
         {
           "id": "0782d162-bbd0-4d87-ba74-e7c90e91e785",
