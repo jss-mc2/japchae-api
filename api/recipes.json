@@ -575,6 +575,20 @@
           "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/chicken_cube.png",
           "amount": "",
           "unit": ""
+        },
+        {
+          "id": "21839152-1905-438a-9202-d82ca1849d50",
+          "name": "Celery",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/celery.png",
+          "amount": "",
+          "unit": ""
+        },
+        {
+          "id": "807d64ff-e931-4582-86f6-30d24268e414",
+          "name": "Nutmeg",
+          "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/nutmeg.png",
+          "amount": "",
+          "unit": ""
         }
       ],
       "instructions": [
@@ -1082,6 +1096,13 @@
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/chicken_cube.png",
               "amount": "",
               "unit": ""
+            },
+            {
+              "id": "807d64ff-e931-4582-86f6-30d24268e414",
+              "name": "Nutmeg",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/nutmeg.png",
+              "amount": "",
+              "unit": ""
             }
           ]
         },
@@ -1116,6 +1137,13 @@
               "id": "f1f2e195-b6b8-4872-b547-8d7a321ea341",
               "name": "Spring Onion",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/leek.png",
+              "amount": "",
+              "unit": ""
+            },
+            {
+              "id": "21839152-1905-438a-9202-d82ca1849d50",
+              "name": "Celery",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/celery.png",
               "amount": "",
               "unit": ""
             }
