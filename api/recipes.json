@@ -517,8 +517,8 @@
           "id": "f1f2e195-b6b8-4872-b547-8d7a321ea341",
           "name": "Leek",
           "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/leek.png",
-          "amount": "8",
-          "unit": "Cloves"
+          "amount": "",
+          "unit": ""
         },
         {
           "id": "68630464-2961-4b27-91cd-56af35a27d44",
@@ -531,8 +531,8 @@
           "id": "e14f6712-ca56-4383-896b-51bf0cbb67e3",
           "name": "Anise",
           "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/anise.png",
-          "amount": "4",
-          "unit": "Cloves"
+          "amount": "",
+          "unit": ""
         },
         {
           "id": "ce20b687-9cae-4869-8995-36adb07b91ab",
@@ -790,8 +790,8 @@
               "id": "f1f2e195-b6b8-4872-b547-8d7a321ea341",
               "name": "Spring Onion",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/leek.png",
-              "amount": "8",
-              "unit": "Cloves"
+              "amount": "",
+              "unit": ""
             }
           ]
         },
@@ -846,8 +846,8 @@
               "id": "e14f6712-ca56-4383-896b-51bf0cbb67e3",
               "name": "Anise",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/anise.png",
-              "amount": "4",
-              "unit": "Cloves"
+              "amount": "",
+              "unit": ""
             },
             {
               "id": "ce20b687-9cae-4869-8995-36adb07b91ab",
@@ -1088,13 +1088,19 @@
         {
           "id": "2ef54534-e865-4f0d-a5dc-5404cfa9030f",
           "order": 20,
-          "title": "",
-          "description": "",
+          "title": "Put green beans",
+          "description": "Put the green beans into the soup and wait until it is cooked",
           "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/20.mp4",
           "media_type": "video",
           "used_utensils": [],
           "used_ingredients": [
-
+            {
+              "id": "4b618618-2081-4a0d-8ae1-4ed811dbaa38",
+              "name": "Green Beans",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/green_beans.png",
+              "amount": "",
+              "unit": ""
+            }
           ]
         },
         {
@@ -1110,8 +1116,8 @@
               "id": "f1f2e195-b6b8-4872-b547-8d7a321ea341",
               "name": "Spring Onion",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/leek.png",
-              "amount": "8",
-              "unit": "Cloves"
+              "amount": "",
+              "unit": ""
             }
           ]
         }
