@@ -794,6 +794,37 @@
               "unit": "Cloves"
             }
           ]
+        },
+        {
+          "id": "",
+          "order": 8,
+          "title": "Cut spring onion",
+          "description": "Cut spring onion",
+          "media": "",
+          "media_type": "",
+          "used_utensils": [
+            {
+              "id": "",
+              "name": "Knive",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
+              "is_essential": false
+            },
+            {
+              "id": "",
+              "name": "Chopping Board",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
+              "is_essential": false
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "",
+              "name": "Spring Onion",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/leek.png",
+              "amount": "8",
+              "unit": "Cloves"
+            }
+          ]
         }
       ]
     }
