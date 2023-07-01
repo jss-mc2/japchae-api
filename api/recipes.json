@@ -566,8 +566,8 @@
           "id": "35f49c76-f323-44b0-a788-98c262575cff",
           "name": "Water",
           "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/water.png",
-          "amount": "8",
-          "unit": "Cloves"
+          "amount": "",
+          "unit": ""
         },
         {
           "id": "8d97ecea-7baa-44a0-961c-e7e2c73f6d6f",
@@ -583,26 +583,26 @@
           "order": 1,
           "title": "Cut shallots",
           "description": "Cut shallots into slices",
-          "media": "",
-          "media_type": "",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/1.mp4",
+          "media_type": "video",
           "used_utensils": [
             {
               "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
               "name": "Knive",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
-              "is_essential": false
+              "is_essential": true
             },
             {
               "id": "af4e5be1-80fb-4231-9516-ab1907bfe4a7",
               "name": "Chopping Board",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
-              "is_essential": false
+              "is_essential": true
             }
           ],
           "used_ingredients": [
             {
               "id": "eb873d9d-6120-4dc4-bd16-be54b8c0a013",
-              "name": "Shallots",
+              "name": "Shallot",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/shallot.png",
               "amount": "8",
               "unit": "Cloves"
@@ -614,20 +614,20 @@
           "order": 2,
           "title": "Cut garlic",
           "description": "Cut garlic into slices",
-          "media": "",
-          "media_type": "",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/2.mp4",
+          "media_type": "video",
           "used_utensils": [
             {
               "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
               "name": "Knive",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
-              "is_essential": false
+              "is_essential": true
             },
             {
               "id": "af4e5be1-80fb-4231-9516-ab1907bfe4a7",
               "name": "Chopping Board",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
-              "is_essential": false
+              "is_essential": true
             }
           ],
           "used_ingredients": [
@@ -645,20 +645,20 @@
           "order": 3,
           "title": "Cut carrot",
           "description": "Cut carrot into slices",
-          "media": "",
-          "media_type": "",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/3.mp4",
+          "media_type": "video",
           "used_utensils": [
             {
               "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
               "name": "Knive",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
-              "is_essential": false
+              "is_essential": true
             },
             {
               "id": "af4e5be1-80fb-4231-9516-ab1907bfe4a7",
               "name": "Chopping Board",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
-              "is_essential": false
+              "is_essential": true
             }
           ],
           "used_ingredients": [
@@ -676,20 +676,20 @@
           "order": 4,
           "title": "Chop potato",
           "description": "Cut potato into slices",
-          "media": "",
-          "media_type": "",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/4.mp4",
+          "media_type": "video",
           "used_utensils": [
             {
               "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
               "name": "Knive",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
-              "is_essential": false
+              "is_essential": true
             },
             {
               "id": "af4e5be1-80fb-4231-9516-ab1907bfe4a7",
               "name": "Chopping Board",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
-              "is_essential": false
+              "is_essential": true
             }
           ],
           "used_ingredients": [
@@ -707,20 +707,20 @@
           "order": 5,
           "title": "Chop ginger",
           "description": "Chop ginger",
-          "media": "",
-          "media_type": "",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/5.mp4",
+          "media_type": "video",
           "used_utensils": [
             {
               "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
               "name": "Knive",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
-              "is_essential": false
+              "is_essential": true
             },
             {
               "id": "af4e5be1-80fb-4231-9516-ab1907bfe4a7",
               "name": "Chopping Board",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
-              "is_essential": false
+              "is_essential": true
             }
           ],
           "used_ingredients": [
@@ -738,20 +738,20 @@
           "order": 6,
           "title": "Cut green beans",
           "description": "Cut green beans",
-          "media": "",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/6.mp4",
           "media_type": "",
           "used_utensils": [
             {
               "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
               "name": "Knive",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
-              "is_essential": false
+              "is_essential": true
             },
             {
               "id": "af4e5be1-80fb-4231-9516-ab1907bfe4a7",
               "name": "Chopping Board",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
-              "is_essential": false
+              "is_essential": true
             }
           ],
           "used_ingredients": [
@@ -769,20 +769,20 @@
           "order": 7,
           "title": "Cut spring onion",
           "description": "Cut spring onion",
-          "media": "",
-          "media_type": "",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/7.mp4",
+          "media_type": "video",
           "used_utensils": [
             {
               "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
               "name": "Knive",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
-              "is_essential": false
+              "is_essential": true
             },
             {
               "id": "af4e5be1-80fb-4231-9516-ab1907bfe4a7",
               "name": "Chopping Board",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
-              "is_essential": false
+              "is_essential": true
             }
           ],
           "used_ingredients": [
@@ -796,29 +796,318 @@
           ]
         },
         {
-          "id": "",
+          "id": "b8ce4184-9216-47fa-8c86-d9ad91c0e30f",
           "order": 8,
-          "title": "Cut spring onion",
-          "description": "Cut spring onion",
-          "media": "",
-          "media_type": "",
+          "title": "Cut chicken",
+          "description": "Cut chicken into slices",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/8.mp4",
+          "media_type": "video",
           "used_utensils": [
             {
-              "id": "",
+              "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
               "name": "Knive",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
-              "is_essential": false
+              "is_essential": true
             },
             {
-              "id": "",
+              "id": "af4e5be1-80fb-4231-9516-ab1907bfe4a7",
               "name": "Chopping Board",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
-              "is_essential": false
+              "is_essential": true
             }
           ],
           "used_ingredients": [
             {
-              "id": "",
+              "id": "68630464-2961-4b27-91cd-56af35a27d44",
+              "name": "Chicken",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/chicken.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "3281e6af-0482-4601-9c08-de21c8ab77bd",
+          "order": 9,
+          "title": "Roast star anise and anise",
+          "description": "Roast star anise and anise in a pot until fragrant",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/9.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "af8b1264-2733-4c71-801e-fd4c78e21665",
+              "name": "Pot",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/soup_pot.png",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "e14f6712-ca56-4383-896b-51bf0cbb67e3",
+              "name": "Anise",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/anise.png",
+              "amount": "4",
+              "unit": "Cloves"
+            },
+            {
+              "id": "ce20b687-9cae-4869-8995-36adb07b91ab",
+              "name": "Star Anise",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/star_anise.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "4ef0e55f-54a7-4a01-89b6-585aa03ea9ae",
+          "order": 10,
+          "title": "Pour oil in pot",
+          "description": "Pour oil in the pot and sauté everything",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/10.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "af8b1264-2733-4c71-801e-fd4c78e21665",
+              "name": "Pot",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/soup_pot.png",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "14036f6b-2239-4f85-9260-e264c6aab0dc",
+              "name": "Oil",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/oil.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "54473fe5-702b-41d5-8fcc-9288479b574d",
+          "order": 11,
+          "title": "Sauté ginger, garlic, shallot",
+          "description": "Put in ginger, garlic, and red onion. Then, sauté everything",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/11.mp4",
+          "media_type": "video",
+          "used_utensils": [],
+          "used_ingredients": [
+            {
+              "id": "d3801541-1ffe-4288-8bb0-fb87c56f13a7",
+              "name": "Ginger",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/ginger.png",
+              "amount": "",
+              "unit": ""
+            },
+            {
+              "id": "f7c307a9-f572-44e4-8e71-fd61a3a95ad5",
+              "name": "Garlic",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/garlic.png",
+              "amount": "4",
+              "unit": "Cloves"
+            },
+            {
+              "id": "eb873d9d-6120-4dc4-bd16-be54b8c0a013",
+              "name": "Shallot",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/shallot.png",
+              "amount": "8",
+              "unit": "Cloves"
+            }
+          ]
+        },
+        {
+          "id": "b4d8bc98-a0ec-4225-83d7-5f5d430209ca",
+          "order": 12,
+          "title": "Put chicken in the pot",
+          "description": "Put the chicken pieces in the pot",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/12.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "af8b1264-2733-4c71-801e-fd4c78e21665",
+              "name": "Pot",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/soup_pot.png",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "68630464-2961-4b27-91cd-56af35a27d44",
+              "name": "Chicken",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/chicken.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "ce6cc5fb-c68e-405b-a104-947124f7cf02",
+          "order": 13,
+          "title": "Sauté for 5 minutes",
+          "description": "Sauté for 5 minutes until 3/4 cooked",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/13.mp4",
+          "media_type": "video",
+          "used_utensils": [],
+          "used_ingredients": []
+        },
+        {
+          "id": "646a2dcd-8928-48f3-9a1d-a67c2712a623",
+          "order": 14,
+          "title": "Season with salt and black pepper",
+          "description": "Season with salt and black pepper to taste",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/14.mp4",
+          "media_type": "video",
+          "used_utensils": [],
+          "used_ingredients": [
+            {
+              "id": "579a969f-ca45-456b-a59d-1257b2b229fa",
+              "name": "Salt",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/salt.png",
+              "amount": "",
+              "unit": ""
+            },
+            {
+              "id": "ce08a974-8e21-4ef7-9f96-2730a34118b1",
+              "name": "Black Pepper",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/black_pepper.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "82ac12f5-7b4c-43fc-bd53-6fc5fa882a82",
+          "order": 15,
+          "title": "Pour water",
+          "description": "Pour 600ml of water to the pot and wait until it simmers",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/15.mp4",
+          "media_type": "video",
+          "used_utensils": [
+            {
+              "id": "af8b1264-2733-4c71-801e-fd4c78e21665",
+              "name": "Pot",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/soup_pot.png",
+              "is_essential": true
+            }
+          ],
+          "used_ingredients": [
+            {
+              "id": "35f49c76-f323-44b0-a788-98c262575cff",
+              "name": "Water",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/water.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "706b8740-bcd5-451e-bef9-85b1fa700a59",
+          "order": 16,
+          "title": "Throw away fat residue",
+          "description": "Throw away the fat residue at the top of the water",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/16.mp4",
+          "media_type": "video",
+          "used_utensils": [],
+          "used_ingredients": []
+        },
+        {
+          "id": "73d5e6e6-e62b-4e2a-bedd-f8504d74cd49",
+          "order": 17,
+          "title": "Pour water",
+          "description": "Pour another 1.2L of water",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/17.mp4",
+          "media_type": "video",
+          "used_utensils": [],
+          "used_ingredients": [
+            {
+              "id": "35f49c76-f323-44b0-a788-98c262575cff",
+              "name": "Water",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/water.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "aa64e653-22f5-455d-9352-9547e3fdcf2e",
+          "order": 18,
+          "title": "Put carrots and potatoes",
+          "description": "Put the carrots and potatoes into the soup",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/18.mp4",
+          "media_type": "video",
+          "used_utensils": [],
+          "used_ingredients": [
+            {
+              "id": "11ce5d61-d509-4a44-bfd0-3b08e61df853",
+              "name": "Carrot",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/carrot.png",
+              "amount": "",
+              "unit": ""
+            },
+            {
+              "id": "1e004239-5f27-494f-abab-cd257aa0eb1f",
+              "name": "Potato",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/potato.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "1458a4f9-15b8-4e6f-8751-1efc546a8d92",
+          "order": 19,
+          "title": "Season the soup again",
+          "description": "Season again to liking with salt,  black pepper, 4 chicken stock cubes, and shaved nutmeg",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/19.mp4",
+          "media_type": "video",
+          "used_utensils": [],
+          "used_ingredients": [
+            {
+              "id": "579a969f-ca45-456b-a59d-1257b2b229fa",
+              "name": "Salt",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/salt.png",
+              "amount": "",
+              "unit": ""
+            },
+            {
+              "id": "ce08a974-8e21-4ef7-9f96-2730a34118b1",
+              "name": "Black Pepper",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/black_pepper.png",
+              "amount": "",
+              "unit": ""
+            },
+            {
+              "id": "8d97ecea-7baa-44a0-961c-e7e2c73f6d6f",
+              "name": "Chicken stock cube",
+              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/chicken_cube.png",
+              "amount": "",
+              "unit": ""
+            }
+          ]
+        },
+        {
+          "id": "2ef54534-e865-4f0d-a5dc-5404cfa9030f",
+          "order": 20,
+          "title": "",
+          "description": "",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/20.mp4",
+          "media_type": "video",
+          "used_utensils": [],
+          "used_ingredients": [
+
+          ]
+        },
+        {
+          "id": "a374f5ac-26c7-4928-a5a6-1dc6d5144fbc",
+          "order": 21,
+          "title": "Put spring onion and celery",
+          "description": "Put spring onion and celery into the soup",
+          "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/21.mp4",
+          "media_type": "video",
+          "used_utensils": [],
+          "used_ingredients": [
+            {
+              "id": "f1f2e195-b6b8-4872-b547-8d7a321ea341",
               "name": "Spring Onion",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/leek.png",
               "amount": "8",
