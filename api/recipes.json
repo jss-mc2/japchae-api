@@ -1053,7 +1053,7 @@
           "used_ingredients": [
             {
               "id": "11ce5d61-d509-4a44-bfd0-3b08e61df853",
-              "name": "carrots",
+              "name": "Carrots",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/carrot.png",
               "amount": "",
               "unit": ""
