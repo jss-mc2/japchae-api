@@ -616,7 +616,7 @@
           "used_ingredients": [
             {
               "id": "eb873d9d-6120-4dc4-bd16-be54b8c0a013",
-              "name": "Shallot",
+              "name": "Shallots",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/shallot.png",
               "amount": "8",
               "unit": "Cloves"
@@ -627,27 +627,14 @@
           "id": "acece587-e79f-42b6-ba97-6bbe8ff18dc0",
           "order": 2,
           "title": "Cut garlic",
-          "description": "Cut garlic into slices",
+          "description": "Cut garlics into slices",
           "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/2.mp4",
           "media_type": "video",
-          "used_utensils": [
-            {
-              "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
-              "name": "Knive",
-              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
-              "is_essential": true
-            },
-            {
-              "id": "af4e5be1-80fb-4231-9516-ab1907bfe4a7",
-              "name": "Chopping Board",
-              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
-              "is_essential": true
-            }
-          ],
+          "used_utensils": [],
           "used_ingredients": [
             {
               "id": "f7c307a9-f572-44e4-8e71-fd61a3a95ad5",
-              "name": "Garlic",
+              "name": "Garlics",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/garlic.png",
               "amount": "4",
               "unit": "Cloves"
@@ -657,28 +644,15 @@
         {
           "id": "3aa13d2d-9d69-41a2-a1fc-9e41097f0d88",
           "order": 3,
-          "title": "Cut carrot",
-          "description": "Cut carrot into slices",
+          "title": "Cut carrots",
+          "description": "Cut carrots into slices",
           "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/3.mp4",
           "media_type": "video",
-          "used_utensils": [
-            {
-              "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
-              "name": "Knive",
-              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/knife.png",
-              "is_essential": true
-            },
-            {
-              "id": "af4e5be1-80fb-4231-9516-ab1907bfe4a7",
-              "name": "Chopping Board",
-              "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/utensils/chopping_board.png",
-              "is_essential": true
-            }
-          ],
+          "used_utensils": [],
           "used_ingredients": [
             {
               "id": "11ce5d61-d509-4a44-bfd0-3b08e61df853",
-              "name": "Carrot",
+              "name": "Carrots",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/carrot.png",
               "amount": "",
               "unit": ""
