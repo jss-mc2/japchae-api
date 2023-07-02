@@ -753,7 +753,7 @@
           "title": "Cut green beans",
           "description": "Cut green beans",
           "media": "https://github.com/jss-mc2/japchae-api/raw/main/media/recipes/chicken_soup/6.mp4",
-          "media_type": "",
+          "media_type": "video",
           "used_utensils": [
             {
               "id": "fb52bff8-df48-4396-bb8d-f566d09d94fe",
@@ -1053,14 +1053,14 @@
           "used_ingredients": [
             {
               "id": "11ce5d61-d509-4a44-bfd0-3b08e61df853",
-              "name": "Carrot",
+              "name": "carrots",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/carrot.png",
               "amount": "",
               "unit": ""
             },
             {
               "id": "1e004239-5f27-494f-abab-cd257aa0eb1f",
-              "name": "Potato",
+              "name": "Potatoes",
               "image": "https://raw.githubusercontent.com/jss-mc2/japchae-api/main/media/ingredients/potato.png",
               "amount": "",
               "unit": ""
